@@ -1,0 +1,12 @@
+.hola{
+    text-align: center;
+    margin: 20px ;
+    font-size: 30px;
+    font-family: 'segoe UI' 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif    
+}
+.hola button {
+    margin-left: 25px; 
+    margin-right: 25px;
+    font-size: 30px;
+    min-width: 50px; 
+} 
